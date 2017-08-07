@@ -8,7 +8,7 @@ const command = ffmpeg();
 //==========================
 //folder
 const inFolder = "./videoIn";
-const outFolder = "./videOut";
+const outFolder = "./videoOut";
 //config
 const videoBitrateVal = 384;//int
 const audioBitrateVal = '128k';//str

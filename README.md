@@ -3,6 +3,7 @@
 
 1. 電腦環境要先安裝[ffmpeg](https://www.ffmpeg.org/)
 2. 使用 [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) 套件包
+3. *__同時轉太多檔案電腦會當掉....__*
 
 ## 使用
 1. 將要轉檔的影片放入/videoIn資料夾
